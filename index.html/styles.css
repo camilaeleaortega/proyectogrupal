@@ -1,0 +1,23 @@
+html *{font-size: 
+    62,5%;} 
+
+    header img  
+    {border-radius: 60% solid 1px black; 
+    
+    }
+
+    .headerdiv {
+        display: flex;
+        background-color: #05f;
+        align-content: flex-end;
+        ;
+    }
+
+    ul{display: inline-flex;
+    align-content: space-between;
+}
+
+    li{
+    background-color: white; 
+color: black;
+border-radius: 15%;}
