@@ -32,3 +32,8 @@ header{
     a:hover{background-color: darkslategray;
             color: white;
     }  
+
+    .titledecoration {
+        font-size: 20rem;
+        font-family: ;
+    }
