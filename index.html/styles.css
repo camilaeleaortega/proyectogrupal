@@ -7,7 +7,7 @@ header{
     justify-content: space-between;
     text-align: center;
     align-items: center;
-    background-color: #0055ff;}
+    background-color: #6193f8;}
     
     
 
@@ -37,3 +37,11 @@ header{
         font-size: 20rem;
         font-family: ;
     }
+
+    footer{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    align-items: center;
+    background-color: #6193f8;}
+    
