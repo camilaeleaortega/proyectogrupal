@@ -41,10 +41,7 @@ header{
     footer{
     display: flex;
     justify-content: space-between;
-    
     align-items: center;
     background-color: #6193f8;
     vertical-align: middle;
     }
-
-    .class icon-user
